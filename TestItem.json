@@ -1,0 +1,23 @@
+{
+  "appid": 4543920,
+  "items": [
+    {
+      "itemdefid": 100,
+      "type": "item",
+      "name": "Debug Item",
+      "description": "Basic test item",
+      "display_type": "Test",
+      "icon_url": "https://via.placeholder.com/128",
+      "tradable": false,
+      "marketable": false,
+      "price": "1;VLV100"
+    },
+    {
+      "itemdefid": 10,
+      "type": "generator",
+      "bundle": "100x1",
+      "name": "Debug Generator",
+      "granted_manually": true
+    }
+  ]
+}
