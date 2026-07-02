@@ -20,21 +20,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MovieRenderPipeline",
-			"Enabled": true
-		},
-		{
-			"Name": "MoviePipelineMaskRenderPass",
-			"Enabled": true
-		},
-		{
-			"Name": "NDIMedia",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "MediaFrameworkUtilities",
 			"Enabled": true
 		}
